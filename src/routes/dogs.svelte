@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     position: absolute;
     top: 88%;
-    left: 40%;
+    left: 38%;
 }
 
 .button:active {
@@ -99,9 +99,9 @@ h1, h2, h3, h4, h5, h6 {
 #dog{
     position: absolute;
     top: 10%;
-    right: 30%;
-    width: 700px;
-    height: 700px;
+    right: 33%;
+    width: 500px;
+    height: 500px;
     background-size: cover;
 
 }
