@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     position: absolute;
     top: 88%;
-    left: 37%;
+    left: 38%;
 }
 
 .button:active {
