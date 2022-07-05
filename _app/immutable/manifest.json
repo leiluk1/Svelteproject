@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-900324cb.js",
+    "file": "start-4f0a00ec.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -73,7 +73,7 @@
     ]
   },
   "src/routes/dogs.svelte": {
-    "file": "pages/dogs.svelte-9d8f939d.js",
+    "file": "pages/dogs.svelte-d54fa551.js",
     "src": "src/routes/dogs.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -81,7 +81,7 @@
       "_index-4b5036f9.js"
     ],
     "css": [
-      "assets/pages/dogs.svelte-acab7047.css"
+      "assets/pages/dogs.svelte-fa0007b7.css"
     ]
   },
   "src/routes/index.svelte": {
