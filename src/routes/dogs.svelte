@@ -99,9 +99,9 @@ h1, h2, h3, h4, h5, h6 {
 #dog{
     position: absolute;
     top: 10%;
-    right: 30%;
-    width: 700px;
-    height: 700px;
+    right: 35%;
+    width: 500px;
+    height: 500px;
     background-size: cover;
 
 }
