@@ -3,6 +3,9 @@
 	import logo from './svelte-logo.svg';
 	import {base} from '$app/paths'
 </script>
+<script context="module" lang="ts">
+	export const prerender = true;
+</script>
 
 <header>
 	<div class="corner">

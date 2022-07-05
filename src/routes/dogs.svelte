@@ -13,6 +13,10 @@
 }
 
 </script>
+<script context="module" lang="ts">
+	export const prerender = true;
+</script>
+
 <svelte:head>
 	<title>Dogs</title>
 	<meta name="description"/>
